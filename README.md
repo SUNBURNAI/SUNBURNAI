@@ -1,4 +1,4 @@
-# SUNBURN AI ☀️🔥  
+# SUNBURN AI ☀️
 
 ### The First AI-Powered Roasting Bot, Fueled by $BURN  
 
@@ -27,3 +27,14 @@ Built on **custom AI models** and **enterprise-grade Twitter API**, Sunburn AI p
 ```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/SunburnAI.git
 cd SunburnAI
+
+2️⃣ Compile the Java program:
+javac SunburnAI.java
+
+3️⃣ Run the code:
+java SunburnAI
+
+⚠️ Disclaimer:
+This repository is for educational and entertainment purposes only.
+Sunburn AI is an engagement-based bot and does not engage in harassment, hate speech, or platform violations.
+We are not responsible for how this project is used, and it is provided as-is with no guarantees.
