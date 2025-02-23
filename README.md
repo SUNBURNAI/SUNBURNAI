@@ -1,16 +1,29 @@
-## Hi there 👋
+# SUNBURN AI ☀️🔥  
 
-<!--
-**SUNBURNAI/SUNBURNAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### The First AI-Powered Roasting Bot, Fueled by $BURN  
 
-Here are some ideas to get you started:
+Sunburn AI is an advanced Twitter bot that detects mentions and **delivers real-time, AI-generated comebacks hotter than the sun**.  
+Built on **custom AI models** and **enterprise-grade Twitter API**, Sunburn AI provides next-level engagement for crypto and meme communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Features:
+✅ AI-powered, real-time Twitter roasting  
+✅ Detects tagged mentions and replies instantly  
+✅ Custom AI API for personalized insults  
+✅ Enterprise Twitter API integration for faster response times  
+
+## 🚀 How It Works:
+1️⃣ **Tag @SunburnAI on Twitter** → It scans the tweet.  
+2️⃣ **AI generates a custom roast** → No mercy.  
+3️⃣ **Instantly replies with savage heat** → Watch the fireworks.  
+
+## 📂 Files Included:
+- **`SunburnAI.java`** – Main bot script  
+- **`config.properties`** – API key storage  
+- **`dependencies.txt`** – Java library dependencies  
+- **`LICENSE`** – Open-source licensing  
+
+## 🛠️ Installation:
+1️⃣ **Clone the repo:**  
+```bash
+git clone https://github.com/YOUR_GITHUB_USERNAME/SunburnAI.git
+cd SunburnAI
