@@ -1,0 +1,4 @@
+Java SE Development Kit 11
+Google Gson - JSON Processing
+Apache HttpClient - Networking Requests
+Twitter API SDK - Enterprise Plan

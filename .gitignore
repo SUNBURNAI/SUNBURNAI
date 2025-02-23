@@ -1,0 +1,19 @@
+# Ignore API keys and sensitive credentials
+config.properties
+twitter_cookies.json
+
+# Ignore Java compiled files
+*.class
+*.jar
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore IDE settings
+.idea/
+.vscode/
